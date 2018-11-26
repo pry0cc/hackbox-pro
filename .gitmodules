@@ -16,3 +16,21 @@
 [submodule "Recon/aquatone"]
 	path = Recon/aquatone
 	url = https://github.com/michenriksen/aquatone.git
+[submodule "Networking/doxycannon"]
+	path = Networking/doxycannon
+	url = https://github.com/audibleblink/doxycannon.git
+[submodule "Exploitation/exploitdb"]
+	path = Exploitation/exploitdb
+	url = https://github.com/offensive-security/exploitdb.git
+[submodule "Payloads/SharpShooter"]
+	path = Payloads/SharpShooter
+	url = https://github.com/mdsecactivebreach/SharpShooter.git
+[submodule "Payloads/demiguise"]
+	path = Payloads/demiguise
+	url = https://github.com/nccgroup/demiguise.git
+[submodule "Exploitation/Empire"]
+	path = Exploitation/Empire
+	url = https://github.com/EmpireProject/Empire.git
+[submodule "Exploitation/koadic"]
+	path = Exploitation/koadic
+	url = https://github.com/zerosum0x0/koadic.git
