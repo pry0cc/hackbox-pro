@@ -34,3 +34,33 @@
 [submodule "Exploitation/koadic"]
 	path = Exploitation/koadic
 	url = https://github.com/zerosum0x0/koadic.git
+[submodule "Payloads/revshelloneliner"]
+	path = Payloads/revshelloneliner
+	url = https://github.com/r3dg33k/Oneliner-Reverse-Shell-Command-Generator-Script.git
+[submodule "Recon/theHarvester"]
+	path = Recon/theHarvester
+	url = https://github.com/laramies/theHarvester.git
+[submodule "Recon/SprayingToolkit"]
+	path = Recon/SprayingToolkit
+	url = https://github.com/byt3bl33d3r/SprayingToolkit.git
+[submodule "Recon/masscan"]
+	path = Recon/masscan
+	url = https://github.com/robertdavidgraham/masscan.git
+[submodule "Recon/Photon"]
+	path = Recon/Photon
+	url = https://github.com/s0md3v/Photon.git
+[submodule "Recon/Zen"]
+	path = Recon/Zen
+	url = https://github.com/s0md3v/Zen.git
+[submodule "Recon/wpscan"]
+	path = Recon/wpscan
+	url = https://github.com/wpscanteam/wpscan.git
+[submodule "Exploitation/drupwn"]
+	path = Exploitation/drupwn
+	url = https://github.com/immunIT/drupwn.git
+[submodule "Recon/joomscan"]
+	path = Recon/joomscan
+	url = https://github.com/rezasp/joomscan.git
+[submodule "Recon/Hash-Buster"]
+	path = Recon/Hash-Buster
+	url = https://github.com/s0md3v/Hash-Buster.git
