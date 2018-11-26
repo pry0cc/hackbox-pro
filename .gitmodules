@@ -1,3 +1,18 @@
 [submodule "Lists/SecLists"]
 	path = Lists/SecLists
 	url = https://github.com/danielmiessler/SecLists.git
+[submodule "Recon/aiodnsbrute"]
+	path = Recon/aiodnsbrute
+	url = https://github.com/blark/aiodnsbrute.git
+[submodule "Recon/Sublist3r"]
+	path = Recon/Sublist3r
+	url = https://github.com/aboul3la/Sublist3r.git
+[submodule "Recon/gobuster"]
+	path = Recon/gobuster
+	url = https://github.com/OJ/gobuster.git
+[submodule "Exploitation/msf"]
+	path = Exploitation/msf
+	url = https://github.com/rapid7/metasploit-framework.git
+[submodule "Recon/aquatone"]
+	path = Recon/aquatone
+	url = https://github.com/michenriksen/aquatone.git
