@@ -67,6 +67,3 @@
 [submodule "Exploitation/patator"]
 	path = Exploitation/patator
 	url = https://github.com/lanjelot/patator.git
-[submodule "Networking/Responder"]
-	path = Networking/Responder
-	url = https://github.com/lgandx/Responder.git
