@@ -79,6 +79,3 @@
 [submodule "AD/Impacket"]
 	path = AD/Impacket
 	url = https://github.com/SecureAuthCorp/impacket.git
-[submodule "Recon/EmailGen"]
-	path = Recon/EmailGen
-	url = git@github.com:navisecdelta/EmailGen.git
