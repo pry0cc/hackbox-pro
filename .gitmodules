@@ -67,3 +67,18 @@
 [submodule "Exploitation/patator"]
 	path = Exploitation/patator
 	url = https://github.com/lanjelot/patator.git
+[submodule "AD/Responder"]
+	path = AD/Responder
+	url = https://github.com/lgandx/Responder.git
+[submodule "AD/ruler"]
+	path = AD/ruler
+	url = https://github.com/sensepost/ruler.git
+[submodule "AD/SprayingToolkit"]
+	path = AD/SprayingToolkit
+	url = https://github.com/byt3bl33d3r/SprayingToolkit.git
+[submodule "AD/Impacket"]
+	path = AD/Impacket
+	url = https://github.com/SecureAuthCorp/impacket.git
+[submodule "Recon/EmailGen"]
+	path = Recon/EmailGen
+	url = git@github.com:navisecdelta/EmailGen.git
